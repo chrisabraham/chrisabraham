@@ -1,6 +1,6 @@
 # Chris Abraham
 
-I'm an SEO consultant in Arlington, Virginia: technical SEO, JavaScript SEO, structured data, AI search visibility (AEO and GEO), and Umbraco and Next.js development. I've built websites since 1994 and practiced SEO since 1998. I work directly in my clients' repositories: I find the cause of a search problem, write the fix as a pull request, and check it after it ships.
+I'm an SEO consultant in Arlington, Virginia: technical SEO, JavaScript SEO, structured data, AI search visibility (AEO and GEO), and Umbraco and Next.js development. The platforms under that work: WordPress, Shopify, Magento 2, Umbraco, Drupal, Plone, Squarespace, Wix, Webflow, and HubSpot, and React and Next.js codebases on Sanity and Vercel. I've built websites since 1994 and practiced SEO since 1998. I work directly in my clients' repositories: I find the cause of a search problem, write the fix as a pull request, and check it after it ships.
 
 ## Sites built from these repositories
 
